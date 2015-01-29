@@ -1,0 +1,6 @@
+## Installation
+
+Clone this repository into a separate directory. Then change into that
+directory and modify the vimrc to your hearts content. Then execute
+bootstrap.sh, which will create symlinks to ~/.vimrc and ~/.vim and then
+install vundle and all the configured plugins.
