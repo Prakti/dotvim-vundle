@@ -78,6 +78,16 @@ Bundle 'kien/ctrlp.vim.git'
 " NERDTree
 Bundle 'scrooloose/nerdtree'
 
+" Nanotech Jellybeans colors 
+Plugin 'nanotech/jellybeans.vim'
+
+" Gruvbox Colorscheme
+Plugin 'morhetz/gruvbox'
+
+" Hybrid Colorscheme
+Plugin 'w0ng/vim-hybrid'
+
+
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
