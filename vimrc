@@ -66,6 +66,17 @@ Plugin 'mintplant/vim-literate-coffeescript'
 " Lightweight Powerline replacement
 Plugin 'bling/vim-airline'
 
+" Php Syntax support
+Plugin 'StanAngeloff/php.vim'
+
+" Bufexplorer
+Bundle 'jlanzarotta/bufexplorer'
+
+" CtrlP
+Bundle 'kien/ctrlp.vim.git'
+
+" NERDTree
+Bundle 'scrooloose/nerdtree'
 
 
 " All of your Plugins must be added before the following line
