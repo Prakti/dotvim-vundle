@@ -69,6 +69,9 @@ Plugin 'bling/vim-airline'
 " Php Syntax support
 Plugin 'StanAngeloff/php.vim'
 
+" Twig Syntax support 
+Plugin 'evidens/vim-twig'
+
 " Bufexplorer
 Bundle 'jlanzarotta/bufexplorer'
 
@@ -86,6 +89,9 @@ Plugin 'morhetz/gruvbox'
 
 " Hybrid Colorscheme
 Plugin 'w0ng/vim-hybrid'
+
+" PHP Debugging
+Plugin 'joonty/vdebug'
 
 
 
