@@ -69,7 +69,7 @@ Plugin 'bling/vim-airline'
 " Php Syntax support
 Plugin 'StanAngeloff/php.vim'
 
-" Twig Syntax support 
+" Twig Syntax support
 Plugin 'evidens/vim-twig'
 
 " Bufexplorer
@@ -81,7 +81,7 @@ Bundle 'kien/ctrlp.vim.git'
 " NERDTree
 Bundle 'scrooloose/nerdtree'
 
-" Nanotech Jellybeans colors 
+" Nanotech Jellybeans colors
 Plugin 'nanotech/jellybeans.vim'
 
 " Gruvbox Colorscheme
@@ -92,6 +92,12 @@ Plugin 'w0ng/vim-hybrid'
 
 " PHP Debugging
 Plugin 'joonty/vdebug'
+
+" Ultisnips Snippet support
+Plugin 'SirVer/ultisnips'
+
+" Snippets for Ultisnips
+Plugin 'honza/vim-snippets'
 
 
 
